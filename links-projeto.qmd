@@ -2,7 +2,10 @@
 title: "Links Úteis"
 ---
 
-|                                   |                                                                                                                     |
-|-----------------------|-------------------------------------------------|
-| DashBoard da Transição Energética | 🔗 on [Dashboard do Projeto de Extensão](https://dashboardtransicaoenergetica.netlify.app/transicaoenergetica.html) |
-| Projeto de Extensão no GitHub     | 🔗 on [GitHub](https://github.com/TransicaoEnergetica)                                                              |
++------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| DashBoard da Transição Energética        | 🔗 on [Dashboard do Projeto de Extensão](https://dashboardtransicaoenergetica.netlify.app/transicaoenergetica.html) |
+|                                          |                                                                                                                     |
+| (Evolução da Matriz de Energia Elétrica) |                                                                                                                     |
++------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Site do Projeto de Extensão no GitHub    | 🔗 on [GitHub](https://github.com/TransicaoEnergetica)                                                              |
++------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
