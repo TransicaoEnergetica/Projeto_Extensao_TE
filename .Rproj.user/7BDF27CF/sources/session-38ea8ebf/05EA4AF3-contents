@@ -1,0 +1,62 @@
+project:
+  type: website
+
+website:
+  title: "Projeto de Extensao Transição Energética"
+  description: "Homepage do Projeto de Extensão Transição Energética."
+  site-url: "https://xxxxxxxx/"
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/raccioly20
+        text: "GitHub"
+      - icon: twitter
+        href: https://twitter.com/r_accioly
+        text: "Twitter"    
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Informação do Projeto"
+        contents:
+          - href: visao-geral.qmd
+            text: Visão Geral
+          - href: time-projeto.qmd
+            text: Professores e Colaboradores do Projeto
+          - href: index.qmd
+            text: Eventos
+          - href: links-projeto.qmd
+            text: Links do projeto
+      - section: "Artigos"
+        contents:
+          - href: artigos/artigo-1.qmd
+
+
+  page-footer:
+    right: "Esta página foi construída com [Quarto](https://quarto.org/)."
+    left: "Ricardo M S Accioly"
+    background: "#D9E3E4"
+    
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+execute:
+  freeze: auto
+
+editor: visual
+
+

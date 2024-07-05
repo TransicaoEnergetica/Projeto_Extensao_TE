@@ -1,0 +1,8 @@
+---
+title: "Links Úteis"
+---
+
+|                                   |                                                                                                                           |
+|------------------------|----------------------------------------------------|
+| DashBoard da Transição Energética | 🔗 on [Dashboard do Projeto de Extensão](https://projetoextensaotransicaoenergetica.netlify.app/transicaoenergetica.html) |
+| Projeto de Extensão no GitHub     | 🔗 on [GitHub](https://github.com/TransicaoEnergetica)                                                                    |
