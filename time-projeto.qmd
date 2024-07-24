@@ -20,4 +20,8 @@ title: "Time de Projeto"
 
 ------------------------------------------------------------------------
 
+![Prof. Harold](images/time/Harold.png){fig-align="left"}
+
+------------------------------------------------------------------------
+
 ![Prof. Ricardo](images/time/Accioly.png){fig-align="left"}
