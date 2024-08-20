@@ -1,9 +1,9 @@
 ---
-title: "Eventos do Projetos"
+title: "Eventos do Projeto"
 ---
 
 ## Cronograma de Atividades
 
 1.      Evento: Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 27 de agosto de 2024
 
-![](images/Evento 27-08-24.png){fig-align="center"}
+![](images/Evento%2027-08-24.png){fig-align="center"}
