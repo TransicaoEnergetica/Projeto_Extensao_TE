@@ -4,6 +4,10 @@ title: "Eventos do Projeto"
 
 ## Cronograma de Atividades
 
-1.      Evento: Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 27 de agosto de 2024
+1.      Evento: As energias renováveis intermitentes e a transição energética - - 29 de abril de 2024
+
+![](images/Evento 29-04-24.png){fig-align="center"}
+
+2.      Evento: Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 27 de agosto de 2024
 
 ![](images/Evento%2027-08-24.png){fig-align="center"}
