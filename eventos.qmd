@@ -10,4 +10,8 @@ title: "Eventos do Projeto"
 
 2.      Evento: Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 31 de outubro de 2024
 
-![](images/Evento 31-10-24.png){fig-align="center"}
+![](images/Evento%2031-10-24.png){fig-align="center"}
+
+3.      Evento: Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 13 de novembro de 2024
+
+![](images/Evento 13-11-24.png){fig-align="center"}
