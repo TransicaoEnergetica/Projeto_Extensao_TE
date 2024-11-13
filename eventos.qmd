@@ -14,4 +14,4 @@ title: "Eventos do Projeto"
 
 3.      Evento: Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 13 de novembro de 2024
 
-![](images/Evento 13-11-24.png){fig-align="center"}
+![](images/Evento%2013-11-24.png){fig-align="center"}
