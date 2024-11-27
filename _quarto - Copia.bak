@@ -15,7 +15,9 @@ website:
       - icon: github
         href: https://github.com/raccioly20
         text: "GitHub"
-
+      - icon: twitter
+        href: https://twitter.com/r_accioly
+        text: "Twitter"    
 
     style: docked
     search: true
@@ -50,6 +52,12 @@ website:
 
 format:
   html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
     toc: true
 
 execute:

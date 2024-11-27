@@ -2,26 +2,34 @@
 title: "Time de Projeto"
 ---
 
-## Professores Participantes
+### Coordenadora: Profa. Maria Elvira
 
-![Profa. Maria Elvira](images/time/elvira.png){fig-align="left"}
+![](images/time/elvira.png){fig-align="left"}
 
-------------------------------------------------------------------------
+### Prof. Albert
 
-![Prof. Albert](images/time/Albert.png){fig-align="left"}
-
-------------------------------------------------------------------------
-
-![Prof. José francisco](images/time/JF.png){fig-align="left"}
+![](images/time/Albert.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-![Profa. Fernanda](images/time/Fernanda.png){fig-align="left"}
+### Prof. José Francisco
+
+![](images/time/JF.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-![Prof. Harold](images/time/Harold.png){fig-align="left"}
+### Profa. Fernanda
+
+![](images/time/Fernanda.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-![Prof. Ricardo](images/time/Accioly.png){fig-align="left"}
+### Prof. Harold
+
+![](images/time/Harold.png){fig-align="left"}
+
+------------------------------------------------------------------------
+
+### Prof. Ricardo
+
+![](images/time/Accioly.png){fig-align="left"}
