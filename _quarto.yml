@@ -50,6 +50,9 @@ website:
 
 format:
   html:
+    theme:
+        light: [cosmo, theme.scss]
+        dark: [cosmo, theme-dark.scss]
     toc: true
 
 execute:
