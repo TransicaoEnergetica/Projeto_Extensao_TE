@@ -12,10 +12,8 @@ title: "Eventos do Projeto"
 
 ![](images/Evento%2031-10-24.png){fig-align="center"}
 
-### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 29 de novembro de 2024
+### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 6 de dezembro de 2024
 
-![](images/Evento%2029-11-24.png){fig-align="center"}
+![](images/Evento 6-12-24.png){fig-align="center"}
 
-### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2 - 6 de dezembro de 2024
-
-![](images/Evento%206-12-24.png){fig-align="center"}
+### 
