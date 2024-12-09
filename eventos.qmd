@@ -14,6 +14,12 @@ title: "Eventos do Projeto"
 
 ### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 6 de dezembro de 2024
 
-![](images/Evento 6-12-24.png){fig-align="center"}
+![](images/Evento%206-12-24.png){fig-align="center"}
 
-### 
+### A Evolução das Matrizes Elétricas Mundiais - 11 de dezembro de 2024
+
+![](images/Evento 11-12-24.png){fig-align="center"}
+
+### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2 - 13 de dezembro de 2024
+
+![](images/Evento 13-12-24.png){fig-align="center"}
