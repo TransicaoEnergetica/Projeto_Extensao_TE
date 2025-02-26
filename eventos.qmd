@@ -18,8 +18,14 @@ title: "Eventos do Projeto"
 
 ### A Evolução das Matrizes Elétricas Mundiais - 11 de dezembro de 2024
 
-![](images/Evento 11-12-24.png){fig-align="center"}
+![](images/Evento%2011-12-24.png){fig-align="center"}
 
 ### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2 - 13 de dezembro de 2024
 
-![](images/Evento 13-12-24.png){fig-align="center"}
+![](images/Evento%2013-12-24.png){fig-align="center"}
+
+### Modelos para o Planejamento da Operação de Longo e Médio Prazos do Sistema Elétrico Brasileiro - 18-03-25
+
+### ![](images/Evento 18-03-25.png)
+
+###  Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 25-03-25 ![](images/Evento 25-03-25.png)
