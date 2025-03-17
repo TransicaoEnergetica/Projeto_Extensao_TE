@@ -26,6 +26,6 @@ title: "Eventos do Projeto"
 
 ### Modelos para o Planejamento da Operação de Longo e Médio Prazos do Sistema Elétrico Brasileiro - 18-03-25
 
-### ![](images/Evento 18-03-25.png)
+### ![](images/Evento%2018-03-25.png)
 
-###  Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 25-03-25 ![](images/Evento 25-03-25.png)
+### Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 25-03-25 ![](images/Evento%2025-03-25.png)
