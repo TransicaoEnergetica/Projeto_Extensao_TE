@@ -8,4 +8,4 @@ categories:
   - Planejamento da Operação 
 ---
 
-![Evento 2](images/Evento 31-10-24.png)
+![Evento 2](images/Evento%2031-10-24.png)

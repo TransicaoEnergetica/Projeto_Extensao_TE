@@ -1,7 +1,7 @@
 ---
 title: "Evolução das Matrizes Elétricas Mundiais"
 author:
-  - Ricardo M S Accioly
+  - Prof. Ricardo M S Accioly
 date: 2024/12/11
 categories: 
   - Análise de Clusters
