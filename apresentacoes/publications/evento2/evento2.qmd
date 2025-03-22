@@ -1,0 +1,11 @@
+---
+title: "Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil"
+author:
+  - Prof. Albert Melo
+date: 2024/10/31
+categories: 
+  - Planejamento da Expansão
+  - Planejamento da Operação 
+---
+
+![Evento 2](images/Evento 31-10-24.png)

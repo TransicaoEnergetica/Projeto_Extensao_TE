@@ -5,5 +5,18 @@
       "/artigos/publications/artigo1/artigo1.html",
       "/artigos/publications/artigo2/artigo2.html"
     ]
+  },
+  {
+    "listing": "/apresentacoes/index.html",
+    "items": [
+      "/apresentacoes/publications/evento8/evento8.html",
+      "/apresentacoes/publications/evento7/evento7.html",
+      "/apresentacoes/publications/evento6/evento6.html",
+      "/apresentacoes/publications/evento5/evento5.html",
+      "/apresentacoes/publications/evento4/evento4.html",
+      "/apresentacoes/publications/evento3/evento3.html",
+      "/apresentacoes/publications/evento2/evento2.html",
+      "/apresentacoes/publications/evento1/evento1.html"
+    ]
   }
 ]

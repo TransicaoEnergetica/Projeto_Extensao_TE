@@ -33,6 +33,10 @@ website:
         contents:
           - href: eventos.qmd
             text: Eventos
+      - section: "Apresentações"
+        contents:
+          - href: apresentacoes/index.qmd
+            text: Apresentações
       - section: "Dashboard"
         contents:
           - href: links-projeto.qmd

@@ -1,0 +1,13 @@
+---
+title: "As Energias renováveis intermitentes e a transição Energética"
+author:
+  - Albert Melo
+  - Maria Elvira Maceira
+  - João Carlos Mello
+date: 2024/04/29
+categories: 
+  - Transição Energética
+  - CIGRE
+---
+
+![Evento 1](images/Evento 29-04-24.png)

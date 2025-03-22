@@ -1,0 +1,11 @@
+---
+title: "Modelos para o Planejamento da Operação Energética de Longo e Médio Prazos do Sistema Elétrico Brasileiro"
+author:
+  - Prof. Maria Elvira Maceira
+date: 2025/03/18
+categories: 
+  - Planejamento da Operação
+  - Sistema Elétrico Brasileiro
+---
+
+![Evento 7](images/Evento 18-03-25.png)

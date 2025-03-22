@@ -1,0 +1,11 @@
+---
+title: "Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1"
+author:
+  - Prof José Francisco Pesanha
+date: 2024/12/06
+categories: 
+  - Redes Neurais
+  - Inteligência Artificial
+---
+
+![Evento 3](images/Evento%206-12-24.png)

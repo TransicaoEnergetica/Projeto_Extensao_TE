@@ -1,0 +1,12 @@
+---
+title: "Evolução das Matrizes Elétricas Mundiais"
+author:
+  - Ricardo M S Accioly
+date: 2024/12/11
+categories: 
+  - Análise de Clusters
+  - Transição Energética
+  - Matrizes Elétricas
+---
+
+![Evento 4](images/Evento 11-12-24.png)

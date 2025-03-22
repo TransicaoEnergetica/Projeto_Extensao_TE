@@ -1,0 +1,10 @@
+---
+title: "A Definir"
+author:
+  - Prof. ALbert Melo
+date: 2024/12/19
+categories: 
+  - A definir
+---
+
+[![Combined Model](images/artigo1.png)](https://www.sciencedirect.com/science/article/pii/S2211467X19300707)

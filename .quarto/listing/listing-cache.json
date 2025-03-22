@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "apresentacoes\\index.qmd": [
+      "publications"
+    ],
     "artigos\\index.qmd": [
       "publications"
     ]

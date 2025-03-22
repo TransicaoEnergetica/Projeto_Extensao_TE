@@ -1,0 +1,12 @@
+---
+title: "Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro"
+author:
+  - Prof. Fernanda S Costa
+date: 2025/03/27
+categories: 
+  - Planejamento da Operação
+  - Curto Prazo
+  - Sistema Elétrico Brasileiro
+---
+
+![Evento 8](images/Evento 27-03-25.png)
