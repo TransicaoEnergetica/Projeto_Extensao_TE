@@ -59,8 +59,6 @@ format:
         dark: [cosmo, theme-dark.scss]
     toc: true
 
-execute:
-  freeze: auto
 
 editor: visual
 
