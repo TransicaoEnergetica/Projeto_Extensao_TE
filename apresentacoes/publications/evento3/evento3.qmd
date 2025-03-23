@@ -1,11 +1,11 @@
 ---
-title: "Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1"
+title: "Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil"
 author:
-  - Prof. José Francisco Pesanha
-date: 2024/12/06
+  - Prof. Albert Melo
+date: 2024/10/31
 categories: 
-  - Redes Neurais
-  - Inteligência Artificial
+  - Planejamento da Expansão
+  - Planejamento da Operação 
 ---
 
-![Evento 3](images/Evento%206-12-24.png)
+![Evento 3](images/Evento%2031-10-24.png)

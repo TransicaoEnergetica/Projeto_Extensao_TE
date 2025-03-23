@@ -1,9 +1,7 @@
 ---
-title: "As Energias renováveis intermitentes e a transição Energética"
+title: "Desafios da Transição Energética"
 author:
-  - Prof. Albert Melo
-  - Prof. Maria Elvira Maceira
-  - João Carlos Mello
+  - Dr. João Carlos Mello
 date: 2024/04/29
 categories: 
   - Transição Energética

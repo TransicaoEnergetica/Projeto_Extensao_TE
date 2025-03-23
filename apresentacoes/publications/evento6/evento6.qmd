@@ -1,10 +1,11 @@
 ---
-title: "A Definir"
+title: "Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2"
 author:
-  - Prof. Albert Melo
-date: 2024/12/19
+  - Prof. José Francisco Pesanha
+date: 2024/12/13
 categories: 
-  - A definir
+  - Redes Neurais
+  - Inteligência Artificial
 ---
 
-[![Combined Model](images/artigo1.png)](https://www.sciencedirect.com/science/article/pii/S2211467X19300707)
+![Evento 6](images/Evento%2013-12-24.png)

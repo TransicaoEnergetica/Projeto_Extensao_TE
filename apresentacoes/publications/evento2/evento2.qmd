@@ -1,11 +1,10 @@
 ---
-title: "Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil"
+title: "A Engenharia Transformando o Brasil"
 author:
   - Prof. Albert Melo
-date: 2024/10/31
+date: 2024/10/22
 categories: 
-  - Planejamento da Expansão
-  - Planejamento da Operação 
+  - Transição Energética
 ---
 
-![Evento 2](images/Evento%2031-10-24.png)
+![Evento 2](images/evento2.png)

@@ -1,11 +1,12 @@
 ---
-title: "Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2"
+title: "Evolução das Matrizes Elétricas Mundiais"
 author:
-  - Prof. José Francisco Pesanha
-date: 2024/12/13
+  - Prof. Ricardo M S Accioly
+date: 2024/12/11
 categories: 
-  - Redes Neurais
-  - Inteligência Artificial
+  - Análise de Clusters
+  - Transição Energética
+  - Matrizes Elétricas
 ---
 
-![Evento 5](images/Evento%2013-12-24.png)
+[![Evento 5](images/Evento%2011-12-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%204%20-%20Projeto%20Extens%C3%A3o%20-%20Evolu%C3%A7%C3%A3o%20das%20Matrizes%20El%C3%A9tricas%20Mundiais.pdf)
