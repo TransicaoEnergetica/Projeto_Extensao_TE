@@ -8,4 +8,4 @@ categories:
   - CIGRE
 ---
 
-[![Evento 1](images/Evento%2029-04-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%201%20-%20Transi%C3%A7%C3%A3o%20Energ%C3%A9tica%20UERJ.pdf)
+[![Evento 1](images/Evento%2029-04-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%201a%20-%20Programa%C3%A7%C3%A3o%20e%20Introdu%C3%A7%C3%A3o%20-%20Projeto%20de%20Extens%C3%A3o-29.04.2024.pdf)
