@@ -1,0 +1,16 @@
+---
+title: "Analysing linear and cyclical trends in Brazilian hydro production"
+author:
+  - J. M. Damazio
+  - M.A. Santos
+  - L.K. Takashi
+  - Fernada S. Costa
+  - M.L.V. Lisboa
+  - C.P. Trama
+date: 2024/12/11
+categories: 
+  - Brazilian Hydro production
+  - Trends
+---
+
+[![Transição Energética](images/artigo5.png)](https://www.hydropower-dams.com/articles/analysing-linear-and-cyclical-trends-in-brazilian-hydro-production/)

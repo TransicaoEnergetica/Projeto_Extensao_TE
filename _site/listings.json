@@ -2,7 +2,11 @@
   {
     "listing": "/artigos/index.html",
     "items": [
+      "/artigos/publications/artigo5/artigo5.html",
+      "/artigos/publications/artigo6/artigo6.html",
+      "/artigos/publications/artigo4/artigo4.html",
       "/artigos/publications/artigo1/artigo1.html",
+      "/artigos/publications/artigo3/artigo3.html",
       "/artigos/publications/artigo2/artigo2.html"
     ]
   },

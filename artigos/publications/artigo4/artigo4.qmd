@@ -1,0 +1,13 @@
+---
+title: "Uma Investigação sobre a Tendência Temporal de Incidentes Classificados como de Danos à Saúde Humana na Indústria de Petróleo do Brasil"
+author:
+  - Fernanda da Serra Costa
+  - Ricardo de Melo e Silva Accioly
+date: 2024/12/02
+categories: 
+  - Industria do Petróleo
+  - Incidentes
+  - Danos à saúde humana
+---
+
+[![Incidentes](images/artigo4.png)](https://www.e-publicacoes.uerj.br/cadest/article/view/85964)

@@ -115,5 +115,17 @@
   },
   "apresentacoes/publications/evento1a/evento1a.qmd": {
     "evento1a.html": "b03055b3"
+  },
+  "artigos/publications/artigo3/artigo3.qmd": {
+    "artigo3.html": "952a24f3"
+  },
+  "artigos/publications/artigo4/artigo4.qmd": {
+    "artigo4.html": "5965e38c"
+  },
+  "artigos/publications/artigo5/artigo5.qmd": {
+    "artigo5.html": "e257eea5"
+  },
+  "artigos/publications/artigo6/artigo6.qmd": {
+    "artigo6.html": "56e537ad"
   }
 }

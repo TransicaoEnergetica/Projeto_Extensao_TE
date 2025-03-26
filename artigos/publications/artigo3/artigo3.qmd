@@ -1,0 +1,13 @@
+---
+title: "Comparing the Performance of Three-Parameter Weibull and Lognormal Distributions in the Generation of Energy Inflows Synthetic Scenarios"
+author:
+  - M. Elvira P Maceira
+  - Albert C. G. Melo
+  - J. Francisco M Pessanha
+date: 2024/06/24
+categories: 
+  - Comparing Performance of Distributions
+  - Synthetic Scenarios 
+---
+
+[![Weibull](images/artigo3.png)](https://ieeexplore.ieee.org/document/10667335)
