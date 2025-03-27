@@ -37,14 +37,14 @@ website:
         contents:
           - href: apresentacoes/index.qmd
             text: Apresentações
+      - section: "Artigos"
+        contents:
+          - href: artigos/index.qmd
+            text: Artigos
       - section: "Dashboard"
         contents:
           - href: links-projeto.qmd
             text: Links do projeto
-      - section: "Artigos"
-        contents:
-          - href: artigos/index.qmd
-
 
   page-footer:
     right: "Esta página foi construída com [Quarto](https://quarto.org/)."
