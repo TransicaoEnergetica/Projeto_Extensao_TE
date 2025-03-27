@@ -8,4 +8,4 @@ categories:
   - Inteligência Artificial
 ---
 
-![Evento 4](images/Evento%206-12-24.png)
+[![Evento 4](images/Evento%206-12-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%204%20-%20MINICURSO_PARTE_1_RESUMIDA.pdf)
