@@ -2,34 +2,36 @@
 title: "Time de Projeto"
 ---
 
-### Coordenadora: Profa. Maria Elvira
+### Coordenadora: Profa. Maria Elvira (Depto Estatística UERJ/IME)
 
 ![](images/time/elvira.png){fig-align="left"}
 
-### Prof. Albert
+------------------------------------------------------------------------
+
+### Prof. Albert (Depto Estatística UERJ/IME)
 
 ![](images/time/Albert.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-### Prof. José Francisco
-
-![](images/time/JF.png){fig-align="left"}
-
-------------------------------------------------------------------------
-
-### Profa. Fernanda
+### Profa. Fernanda (Depto Estatística UERJ/IME)
 
 ![](images/time/Fernanda.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-### Prof. Harold
+### Prof. José Francisco (Depto Estatística UERJ/IME)
 
-![](images/time/Harold.png){fig-align="left"}
+![](images/time/JF.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-### Prof. Ricardo
+### Prof. Ricardo (Depto Estatística UERJ/IME)
 
 ![](images/time/Accioly.png){fig-align="left"}
+
+------------------------------------------------------------------------
+
+### Prof. Harold (Depto Engenharia Elétrica UERJ/FEN)
+
+![](images/time/Harold.png){fig-align="left"}
