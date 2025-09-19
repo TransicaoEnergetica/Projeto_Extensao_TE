@@ -9,4 +9,4 @@ categories:
   - Sistema Elétrico Brasileiro
 ---
 
-[![Evento 8](images/Evento%2027-03-25.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%208-Modelos%20para%20o%20Planejanento%20de%20Curto%20Prazo%20do%20SIN%20-%20Projeto%20Extens%C3%A3o%20Transi%C3%A7%C3%A3o%20Energ%C3%A9tica%20.pdf)
+[![Evento 8](images/Evento%2027-03-25.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%208%20-%20Modelos%20para%20o%20Planejanento%20de%20Curto%20Prazo%20do%20SIN%20-%20R.pdf)
