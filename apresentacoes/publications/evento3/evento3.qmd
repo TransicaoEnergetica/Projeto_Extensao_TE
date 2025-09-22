@@ -8,4 +8,4 @@ categories:
   - Planejamento da Operação 
 ---
 
-[![Evento 3](images/Evento%2031-10-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%203%20-%20Introdu%C3%A7%C3%A3o%20Metodologias%20Planej%20Expans%C3%A3o%20e%20Opera%C3%A7%C3%A3o%20-%20Projeto%20Extens%C3%A3o-31.10.2024.pdf)
+[![Evento 3](images/Evento%2031-10-24.png)](https://github.com/TransicaoEnergetica/Projeto_Extensao_TE/blob/main/pdfs/Evento%203%20-%20Introdu%C3%A7%C3%A3o%20Metodologias%20Planej%20Expans%C3%A3o%20e%20Opera%C3%A7%C3%A3o%20-%20Projeto%20Extens%C3%A3o%20-%2031.10.2024.pdf)
