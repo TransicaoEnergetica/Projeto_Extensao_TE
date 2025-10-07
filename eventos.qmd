@@ -4,28 +4,30 @@ title: "Eventos do Projeto"
 
 ## Cronograma de Atividades
 
-### As energias renováveis intermitentes e a transição energética - 29 de abril de 2024
+### Impactos da transição energética no suprimento elétrico da Amazônia Brasileira - 14-10-25 [![](images/Evento 14-10-25.png)](https://homeprojextransicaoenergetica.netlify.app/_site/eventos)
 
-![](images/Evento%2029-04-24.png){fig-align="center"}
-
-### Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 31 de outubro de 2024
-
-![](images/Evento%2031-10-24.png){fig-align="center"}
-
-### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 6 de dezembro de 2024
-
-![](images/Evento%206-12-24.png){fig-align="center"}
-
-### A Evolução das Matrizes Elétricas Mundiais - 11 de dezembro de 2024
-
-![](images/Evento%2011-12-24.png){fig-align="center"}
-
-### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2 - 13 de dezembro de 2024
-
-![](images/Evento%2013-12-24.png){fig-align="center"}
+### Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 27-03-25 ![](images/Evento%2027-03-25.png)
 
 ### Modelos para o Planejamento da Operação de Longo e Médio Prazos do Sistema Elétrico Brasileiro - 18-03-25
 
 ### ![](images/Evento%2018-03-25.png)
 
-### Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 27-03-25 ![](images/Evento%2027-03-25.png)
+### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 2 - 13 de dezembro de 2024
+
+![](images/Evento%2013-12-24.png){fig-align="center"}
+
+### A Evolução das Matrizes Elétricas Mundiais - 11 de dezembro de 2024
+
+![](images/Evento%2011-12-24.png){fig-align="center"}
+
+### Mini-Curso: Introdução à Inteligência Artificial com Redes Neurais Artificiais Parte 1 - 6 de dezembro de 2024
+
+![](images/Evento%206-12-24.png){fig-align="center"}
+
+### Metodologias e Modelos Computacionais para o Planejamento da Expansão e da Operação Energética no Brasil - 31 de outubro de 2024
+
+![](images/Evento%2031-10-24.png){fig-align="center"}
+
+### As energias renováveis intermitentes e a transição energética - 29 de abril de 2024
+
+![](images/Evento%2029-04-24.png){fig-align="center"}
