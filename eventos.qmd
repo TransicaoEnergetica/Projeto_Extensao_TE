@@ -4,7 +4,9 @@ title: "Eventos do Projeto"
 
 ## Cronograma de Atividades
 
-### Impactos da transição energética no suprimento elétrico da Amazônia Brasileira - 14-10-25 [![](images/Evento 14-10-25.png)](https://homeprojextransicaoenergetica.netlify.app/_site/eventos)
+### Transição energética: desafios da elevada participação de renováveis intermitentes no controle e operação do SIN - 30-10-25 [![](images/Evento 30-10-25.png)](https://homeprojextransicaoenergetica.netlify.app/_site/eventos)
+
+### Impactos da transição energética no suprimento elétrico da Amazônia Brasileira - 14-10-25 [![](images/Evento%2014-10-25.png)](https://homeprojextransicaoenergetica.netlify.app/_site/eventos)
 
 ### Modelos para o Planejamento da Operação de Curto Prazo do Sistema Elétrico Brasileiro - 27-03-25 ![](images/Evento%2027-03-25.png)
 
